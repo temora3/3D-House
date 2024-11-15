@@ -62,6 +62,8 @@ context.stroke_preserve()
 
 set_rgb_color(context, 216, 165, 141)  # Fill color
 context.fill()
+
+
 # Door
 context.move_to(500, 370)
 context.line_to(500, 250)

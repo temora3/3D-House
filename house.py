@@ -10,7 +10,7 @@ surface = cairo.ImageSurface(cairo.FORMAT_RGB30, WIDTH, HEIGHT)
 context = cairo.Context(surface)
 
 # Background Colour
-context.set_source_rgb(1, 1, 1)  # White
+context.set_source_rgb(1, 1, 1)  #White
 context.paint()
 
 

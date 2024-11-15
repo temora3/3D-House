@@ -33,7 +33,7 @@ Script Breakdown
     Saving the Output:
         The final drawing is saved as output.png.
 
-How to Run
+How to Run the script:
 
 To run this script:
 

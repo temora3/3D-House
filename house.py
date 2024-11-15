@@ -30,25 +30,6 @@ set_rgb_color(context, 216, 165, 141)
 context.fill()
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Door handle
 context.arc(540, 300, 5, 0, 2 * 3.14159)  # x=500, y=300, radius=10
 context.set_source_rgb(1, 1, 0)  # Fill color: yellow
@@ -77,4 +58,3 @@ context.line_to(612, 182)
 context.set_source_rgb(0, 0, 0)  # Black for stroke
 context.set_line_width(2)
 context.stroke_preserve()
-
